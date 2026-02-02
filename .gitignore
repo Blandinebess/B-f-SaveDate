@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist/
+/build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite
+.vite/
+
+# Misc
+*.env
+.env.*
+
+# Ignore Mac system files
+*.DS_Store
+
+# Ignore Windows system files
+*.Thumbs.db
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore coverage reports
+coverage/
+
+# Ignore local environment files
+*.local
+
+# Ignore any other unwanted files
